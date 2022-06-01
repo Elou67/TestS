@@ -1,0 +1,27 @@
+body{
+    margin: auto;
+    background-color: #ffffff;
+}
+
+
+header{
+    background-color: #f73a3a;
+    margin: auto;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    
+
+}
+
+
+footer{
+    margin: auto;
+    display: flex;
+    justify-content: left;
+    background-color: #8a8989;
+    border-top: 2px solid rgb(0, 0, 0); 
+    margin-top: 0px;
+    padding-right: auto
+    ;
+}
+
+  
